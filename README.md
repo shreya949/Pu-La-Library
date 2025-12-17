@@ -1,6 +1,5 @@
 # Pu-La-Library
-A digital system to manage books, members, and transactions efficiently.  Enables issuing and searching books. Simplifies library operations and improves member experience.
-
+Pu-La Library is a digital library management system developed using Java, JSP, and Servlets. It supports book browsing, user accounts, cart functionality, and admin book management. The system simplifies library workflows and enhances user experience.
 
 ### Register
 ![Register](assets/register.png)
