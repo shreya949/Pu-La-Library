@@ -1,14 +1,15 @@
 # Pu-La-Library
 A digital system to manage books, members, and transactions efficiently.  Enables issuing and searching books. Simplifies library operations and improves member experience.
 
-### Home
-![Home](assets/home.png)
+
+### Register
+![Register](assets/register.png)
 
 ### Login
 ![Login](assets/login.png)
 
-### Register
-![Register](assets/register.png)
+### Home
+![Home](assets/home.png)
 
 ### Recent Books
 ![Recent Books](assets/recent_books.png)
@@ -37,8 +38,11 @@ A digital system to manage books, members, and transactions efficiently.  Enable
 ### User Sold Books
 ![User Sold Books](assets/user_sold_books.png)
 
-### Admin – Add Books
-![Admin Add Books](assets/Admin_add_books.png)
+### Admin Login
+![Admin Login](assets/Admin_Login.png)
+
+### Admin Dashboard
+![Admin Dashboard](assets/Admin_Dashboard.png)
 
 ### Admin – View Books
 ![Admin View Books](assets/Admin_visit_books.png)
@@ -46,5 +50,5 @@ A digital system to manage books, members, and transactions efficiently.  Enable
 ### Contact
 ![Contact](assets/contact.png)
 
-
 ### Helpline
+![Helpline](assets/helpline.png)
